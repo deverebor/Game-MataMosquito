@@ -18,7 +18,7 @@ Todas as artes utilizadas foram dadas pelo proprío curso.
 
 
 
-### Features que seram adicionadas futuramente
+## Features que seram adicionadas futuramente
 
 * Sistema de Ranking's.
    * Será adicionado um sistema de rankings para a pontuação que determinado úsuario fez.
@@ -32,6 +32,6 @@ Todas as artes utilizadas foram dadas pelo proprío curso.
    * O jogo não será mais por tempo e sim baseado nas vidas que o usuario tem, assim fornecendo uma gameplay mais imersiva.
 
 
-### Agradecimentos
+## Agradecimentos
 
 Obrigado ao professor Jorge Sant Ana por ministrar aulas tão prazerosas e divertidas!
