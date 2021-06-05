@@ -21,16 +21,16 @@ Todas as artes utilizadas foram dadas pelo proprío curso.
 ### Features que seram adicionadas futuramente
 
 1. Sistema de Ranking's.
-   ...Será adicionado um sistema de rankings para a pontuação que determinado úsuario fez.
+   ---1 Será adicionado um sistema de rankings para a pontuação que determinado úsuario fez.
 
 2. Background's dinamicos.
-   ...Backgrounds diferentes para cada nível que for escolhido.
+   ---Backgrounds diferentes para cada nível que for escolhido.
 
 3. Mosquitos especiais.
-   ...Mosquitos que se forem eliminados vão dar buff's para o jogador.
+   ---Mosquitos que se forem eliminados vão dar buff's para o jogador.
 
 4. Sem minutagem, apenas a vida
-   ...O jogo não será mais por tempo e sim baseado nas vidas que o usuario tem, assim fornecendo uma gameplay mais imersiva.
+   ---O jogo não será mais por tempo e sim baseado nas vidas que o usuario tem, assim fornecendo uma gameplay mais imersiva.
 
 
 ### Agradecimentos
