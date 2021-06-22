@@ -98,7 +98,7 @@ function posicaoRandomica() {
 
 }
 
-//Função para a criação aleatoria de tamanho dos mosquitos na tela.
+//Função para a criação aleatória de tamanho dos mosquitos na tela.
 function tamanhoAleatorio() {
     let classe = Math.floor(Math.random() * 3)
 
